@@ -1,0 +1,4 @@
+# COL1A1 Mutation Analysis in Osteogenesis Imperfecta #
+## Disease Background
+
+Osteogenesis imperfecta (OI) is a genetic disorder of connective tissue, commonly known as brittle bone disease, characterized mainly by fragile bones that fracture easily, sometimes with minimal or no trauma. Its major clinical characteristics include recurrent fractures, bone deformities, short stature, blue or gray sclerae, dentinogenesis imperfecta, and hearing loss. The bones and other connective tissues are mainly affected because type I collagen is an important structural component of the bone matrix. OI can result from pathogenic variants in the COL1A1 gene, which encodes the alpha-1 chain of type I collagen. Most COL1A1-related OI is inherited in an autosomal dominant manner, although many cases can also result from new variants. 
