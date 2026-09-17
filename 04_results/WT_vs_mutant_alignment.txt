@@ -1,0 +1,157 @@
+########################################
+# Program: needle
+# Rundate: Wed 16 Sep 2026 15:15:06
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79800255/inputs/dataset_5366873b-a0f4-4feb-a97d-26aba32b0ba2.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79800255/inputs/dataset_25c0cc5f-adbc-4d3e-af75-c2d0259295ed.dat
+#    -outfile /jetstream2/scratch/main/jobs/79800255/outputs/dataset_daf537d8-1fbb-4905-af61-8015a1c0f55a.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79800255/outputs/dataset_daf537d8-1fbb-4905-af61-8015a1c0f55a.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 119-4513_1
+# 2: 119-4513_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1465
+# Identity:    1464/1465 (99.9%)
+# Similarity:  1464/1465 (99.9%)
+# Gaps:           0/1465 ( 0.0%)
+# Score: 8225.0
+# 
+#
+#=======================================
+
+119-4513_1         1 MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNGLRYHDR     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1         1 MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNGLRYHDR     50
+
+119-4513_1        51 DVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSE    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1        51 DVWKPEPCRICVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSE    100
+
+119-4513_1       101 SPTDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPP    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       101 SPTDQETTGVEGPKGDTGPRGPRGPAGPPGRDGIPGQPGLPGPPGPPGPP    150
+
+119-4513_1       151 GPPGLGGNFAPQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQG    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       151 GPPGLGGNFAPQLSYGYDEKSTGGISVPGPMGPSGPRGLPGPPGAPGPQG    200
+
+119-4513_1       201 FQGPPGEPGEPGASGPMGPRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQ    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       201 FQGPPGEPGEPGASGPMGPRGPPGPPGKNGDDGEAGKPGRPGERGPPGPQ    250
+
+119-4513_1       251 GARGLPGTAGLPGMKGHRGFSGLDGAKGDAGPAGPKGEPGSPGENGAPGQ    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       251 GARGLPGTAGLPGMKGHRGFSGLDGAKGDAGPAGPKGEPGSPGENGAPGQ    300
+
+119-4513_1       301 MGPRGLPGERGRPGAPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVG    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       301 MGPRGLPGERGRPGAPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVG    350
+
+119-4513_1       351 AKGEAGPQGPRGSEGPQGVRGEPGPPGPAGAAGPAGNPGADGQPGAKGAN    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       351 AKGEAGPQGPRGSEGPQGVRGEPGPPGPAGAAGPAGNPGADGQPGAKGAN    400
+
+119-4513_1       401 GAPGIAGAPGFPGARGPSGPQGPGGPPGPKGNSGEPGAPGSKGDTGAKGE    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       401 GAPGIAGAPGFPGARGPSGPQGPGGPPGPKGNSGEPGAPGSKGDTGAKGE    450
+
+119-4513_1       451 PGPVGVQGPPGPAGEEGKRGARGEPGPTGLPGPPGERGGPGSRGFPGADG    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       451 PGPVGVQGPPGPAGEEGKRGARGEPGPTGLPGPPGERGGPGSRGFPGADG    500
+
+119-4513_1       501 VAGPKGPAGERGSPGPAGPKGSPGEAGRPGEAGLPGAKGLTGSPGSPGPD    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       501 VAGPKGPAGERGSPGPAGPKGSPGEAGRPGEAGLPGAKGLTGSPGSPGPD    550
+
+119-4513_1       551 GKTGPPGPASQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGV    600
+                     |||||||||.||||||||||||||||||||||||||||||||||||||||
+119-4513_1       551 GKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGV    600
+
+119-4513_1       601 PGPPGAVGPAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAG    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       601 PGPPGAVGPAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAG    650
+
+119-4513_1       651 PPGEAGKPGEQGVPGDLGAPGPSGARGERGFPGERGVQGPPGPAGPRGAN    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       651 PPGEAGKPGEQGVPGDLGAPGPSGARGERGFPGERGVQGPPGPAGPRGAN    700
+
+119-4513_1       701 GAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPGPKGDRGDAGP    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       701 GAPGNDGAKGDAGAPGAPGSQGAPGLQGMPGERGAAGLPGPKGDRGDAGP    750
+
+119-4513_1       751 KGADGSPGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGAPG    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       751 KGADGSPGKDGVRGLTGPIGPPGPAGAPGDKGESGPSGPAGPTGARGAPG    800
+
+119-4513_1       801 DRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPP    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       801 DRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGPPGPAGPAGPP    850
+
+119-4513_1       851 GPIGNVGAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGP    900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       851 GPIGNVGAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGP    900
+
+119-4513_1       901 AGKEGGKGPRGETGPAGRPGEVGPPGPPGPAGEKGSPGADGPAGAPGTPG    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       901 AGKEGGKGPRGETGPAGRPGEVGPPGPPGPAGEKGSPGADGPAGAPGTPG    950
+
+119-4513_1       951 PQGIAGQRGVVGLPGQRGERGFPGLPGPSGEPGKQGPSGASGERGPPGPM   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1       951 PQGIAGQRGVVGLPGQRGERGFPGLPGPSGEPGKQGPSGASGERGPPGPM   1000
+
+119-4513_1      1001 GPPGLAGPPGESGREGAPGAEGSPGRDGSPGAKGDRGETGPAGPPGAPGA   1050
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1001 GPPGLAGPPGESGREGAPGAEGSPGRDGSPGAKGDRGETGPAGPPGAPGA   1050
+
+119-4513_1      1051 PGAPGPVGPAGKSGDRGETGPAGPAGPVGPVGARGPAGPQGPRGDKGETG   1100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1051 PGAPGPVGPAGKSGDRGETGPAGPAGPVGPVGARGPAGPQGPRGDKGETG   1100
+
+119-4513_1      1101 EQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAP   1150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1101 EQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGPRGPPGSAGAP   1150
+
+119-4513_1      1151 GKDGLNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSF   1200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1151 GKDGLNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSF   1200
+
+119-4513_1      1201 LPQPPQEKAHDGGRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEG   1250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1201 LPQPPQEKAHDGGRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEG   1250
+
+119-4513_1      1251 SRKNPARTCRDLKMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCV   1300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1251 SRKNPARTCRDLKMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCV   1300
+
+119-4513_1      1301 YPTQPSVAQKNWYISKNPKDKRHVWFGESMTDGFQFEYGGQGSDPADVAI   1350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1301 YPTQPSVAQKNWYISKNPKDKRHVWFGESMTDGFQFEYGGQGSDPADVAI   1350
+
+119-4513_1      1351 QLTFLRLMSTEASQNITYHCKNSVAYMDQQTGNLKKALLLQGSNEIEIRA   1400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1351 QLTFLRLMSTEASQNITYHCKNSVAYMDQQTGNLKKALLLQGSNEIEIRA   1400
+
+119-4513_1      1401 EGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSRLPIIDVAPLDVGAP   1450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+119-4513_1      1401 EGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSRLPIIDVAPLDVGAP   1450
+
+119-4513_1      1451 DQEFGFDVGPVCFL*   1465
+                     |||||||||||||| 
+119-4513_1      1451 DQEFGFDVGPVCFL*   1465
+
+
+#---------------------------------------
+#---------------------------------------
